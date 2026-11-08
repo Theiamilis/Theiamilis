@@ -31,8 +31,8 @@ Self-hosted AI companion builder from Indonesia. I build companions that live on
 ## ✦ GitHub stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Theiamilis&show_icons=true&bg_color=170a12&title_color=ff7eb6&icon_color=ff7eb6&text_color=f3dbe6&border_color=3d1a2b" alt="Theia12's GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theiamilis&layout=compact&bg_color=170a12&title_color=ff7eb6&text_color=f3dbe6&border_color=3d1a2b" alt="Most used languages"/>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Theiamilis&theme=radical" alt="Theia12's GitHub stats"/>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Theiamilis&theme=radical" alt="Most used languages"/>
 </div>
 
 ## ✦ Find me
